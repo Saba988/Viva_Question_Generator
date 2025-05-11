@@ -30,18 +30,6 @@ An interactive and user-friendly **Streamlit web app** to help students and prof
    git clone https://github.com/yourusername/viva-question-generator.git
    cd viva-question-generator
 
-   
-# Install dependencies
-
-pip install -r requirements.txt
-Run the app
-
-streamlit run viva_question_generator.py
-# ✅ Requirements
-Add the following in requirements.txt:
-
-streamlit
-pandas(random is already included in Python — no need to install.)
 
 ---
 
