@@ -14,13 +14,6 @@ An interactive Streamlit web app to generate viva questions on **Traditional Pyt
 
 ---
 
-## 🖥️ Demo
-
-![Viva Question Generator Demo](https://user-images.githubusercontent.com/your-demo-link.gif)  
-*(Replace with your own screenshot or GIF)*
-
----
-
 ## 📂 Project Structure
 
 ```bash
