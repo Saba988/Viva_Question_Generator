@@ -37,7 +37,7 @@ pip install -r requirements.txt
 Run the app
 
 streamlit run viva_question_generator.py
-✅ Requirements
+# ✅ Requirements
 Add the following in requirements.txt:
 
 streamlit
@@ -56,4 +56,4 @@ pandas(random is already included in Python — no need to install.)
 
 ---
 
-# Built with ❤️ by Saba Junaid by using Python and Streamlit
+# Built with ❤️ by Saba Junaid
